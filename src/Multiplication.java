@@ -6,8 +6,7 @@ public class Multiplication {
         int b = 2;
         int c = a * b;
 
-	String std="I love my Job";
-	System.out.println(std);
+	
 
         System.out.println("The value of int a is: "+a);
 		System.out.println("The value of int b is: "+b);
