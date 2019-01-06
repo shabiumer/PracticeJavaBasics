@@ -4,8 +4,9 @@ public class Main {
 
         int x=10;
         int y=20;
+	  int z=x+y;
 
         System.out.println("Hello World!");
-        System.out.println(x+y);
+        System.out.println(z);
     }
 }
